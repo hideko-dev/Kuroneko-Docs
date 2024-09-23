@@ -7,6 +7,10 @@ export default {
         defaultTitle: "Kuroneko Network",
         titleTemplate: "%s - Kuroneko Network",
         description: "黒猫ネットワークの公式サイト",
+        openGraph: {
+            url: "https://kuroneko.click",
+            description: "nextra-ogp-sample",
+        },
     }),
     logo: <Logo/>,
     project: {
