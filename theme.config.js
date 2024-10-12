@@ -38,12 +38,12 @@ export default {
             </>
         );
     },
-    // banner: {
-    //     key: 'network-season2-release',
-    //     text: (
-    //         <a href="./season/season2" target="_blank">
-    //             🎉 黒猫ネットワーク、シーズン2が公開！ 詳細はこちら →
-    //         </a>
-    //     )
-    // },
+    banner: {
+        key: 'network-season2-release',
+        text: (
+            <a href="./season/season2" target="_blank">
+                🎉 Kuroneko Network v3 Released! →
+            </a>
+        )
+    },
 }
